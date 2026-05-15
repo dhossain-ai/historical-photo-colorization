@@ -1,0 +1,15 @@
+torch
+torchvision
+fastai==1.0.61
+opencv-python
+pillow
+matplotlib
+numpy
+scipy
+requests
+tqdm
+ffmpeg-python
+yt-dlp
+ipython
+setuptools==68.2.2
+packaging

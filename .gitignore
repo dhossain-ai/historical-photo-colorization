@@ -179,3 +179,35 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env
+.venv/
+venv/
+deoldify-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+models/*.pth
+models/*.pt
+models/*.ckpt
+models/*.pkl
+
+# Large media outputs
+*.mp4
+*.avi
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+extarnal
