@@ -1,0 +1,97 @@
+Classical Colorization Mask Points
+
+Note:
+The image was resized to width 1000 when collecting points.
+These points are used for polygon-based semantic segmentation.
+
+sky = [
+    Point added: [570, 178]
+Point added: [747, 182]
+Point added: [932, 188]
+Point added: [937, 171]
+Point added: [935, 162]
+Point added: [927, 153]
+Point added: [927, 137]
+Point added: [923, 118]
+Point added: [923, 89]
+Point added: [929, 69]
+Point added: [942, 58]
+Point added: [961, 43]
+Point added: [978, 35]
+Point added: [995, 30]
+Point added: [993, 5]
+Point added: [969, 3]
+Point added: [888, 2]
+Point added: [722, 0]
+Point added: [645, 0]
+Point added: [617, 0]
+Point added: [600, 28]
+Point added: [583, 46]
+Point added: [572, 74]
+Point added: [573, 101]
+Point added: [576, 124]
+Point added: [574, 143]
+Point added: [571, 174]
+
+Final points:
+[[570, 178], [747, 182], [932, 188], [937, 171], [935, 162], [927, 153], [927, 137], [923, 118], [923, 89], [929, 69], [942, 58], [961, 43], [978, 35], [995, 30], [993, 5], [969, 3], [888, 2], [722, 0], [645, 0], [617, 0], [600, 28], [583, 46], [572, 74], [573, 101], [576, 124], [574, 143], [571, 174]]
+
+Copy this into your colorization code:
+region_points = [
+    [570, 178],
+    [747, 182],
+    [932, 188],
+    [937, 171],
+    [935, 162],
+    [927, 153],
+    [927, 137],
+    [923, 118],
+    [923, 89],
+    [929, 69],
+    [942, 58],
+    [961, 43],
+    [978, 35],
+    [995, 30],
+    [993, 5],
+    [969, 3],
+    [888, 2],
+    [722, 0],
+    [645, 0],
+    [617, 0],
+    [600, 28],
+    [583, 46],
+    [572, 74],
+    [573, 101],
+    [576, 124],
+    [574, 143],
+    [571, 174],
+]
+]
+
+sea = [
+
+]
+
+boat = [
+
+]
+
+skin = [
+
+]
+
+white_clothes = [
+
+]
+
+khaki_clothes = [
+
+]
+
+hair = [
+
+]
+
+fishing_rods = [
+
+]
